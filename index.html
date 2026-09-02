@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rubia Portfólio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="desktop">
+
+    <div class="pastas-esquerda">
+      <div class="pasta" onclick="abrir('sobre')">
+        <img src="img/mim.png" alt="Sobre mim" class="icone">
+      </div>
+      <div class="pasta" onclick="abrir('projetos')">
+        <img src="img/projetos.png" alt="Projetos" class="icone">
+      </div>
+    </div>
+
+    <div class="pastas-direita">
+      <div class="pasta" onclick="abrir('mais')">
+        <img src="img/git.png" alt="Projetos Git" class="icone">
+      </div>
+    </div>
+  </div>
+
+  <div id="janela" class="janela">
+    <button class="fechar" onclick="fechar()">X</button>
+    <div id="conteudo"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
