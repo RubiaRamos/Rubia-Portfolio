@@ -24,7 +24,6 @@ button,
   height: auto;
 }
 
-
 .sobre-bloco-perfil {
   display: flex;
   align-items: center;       
@@ -33,7 +32,6 @@ button,
   margin-bottom: 20px;      
 }
 
-/* Pequeno ajuste na sua classe existente para ela funcionar melhor no Flexbox */
 .img_foto_pequeno {
   width: 150px;   
   height: auto;
@@ -66,7 +64,6 @@ button,
 .botao:hover {
   background: #333;        
 }
-
 
 .desktop {
   position: relative;
@@ -129,4 +126,3 @@ button,
   border-radius: 5px;
   
 }
-
