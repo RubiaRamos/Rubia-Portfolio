@@ -8,13 +8,11 @@ function abrir(secao) {
       <h2>Sobre Mim</h2>
       <div class="sobre-bloco-perfil">
         <p>
-          Minha vida escolar foi uma parte fundamental do meu desenvolvimento
-          social, acadêmico e pessoal. Durante o Ensino Fundamental, estudei em
-          escolas de Curitiba e Fazenda Rio Grande, passando por mudanças,
-          novas amizades e diferentes ambientes. Nesse período, aprendi a me
-          adaptar, desenvolvi minha relação com professores e colegas e descobri
-          meu interesse por matemática. Também era bastante tímida, mas, com o
-          tempo, consegui desenvolver mais confiança e criar vínculos com as
+          Minha vida escolar foi uma parte fundamental do meu desenvolvimento social, acadêmico e pessoal.
+          Durante o Ensino Fundamental, estudei em escolas de Curitiba e Fazenda Rio Grande, passando por 
+          mudanças, novas amizades e diferentes ambientes. Nesse período, aprendi a me adaptar, desenvolvi 
+          minha relação com professores e colegas e descobri meu interesse por matemática. Também era 
+          bastante tímida, mas, com o tempo, desenvolvi mais confiança e consegui criar vínculos com as 
           pessoas ao meu redor.
         </p>
         <img src="img/rubia_10.jpg" alt="Sobre mim" class="img_foto_pequeno" onclick="aumentarFoto(this)">
@@ -22,40 +20,53 @@ function abrir(secao) {
 
       <div class="sobre-bloco-perfil">
         <p>
-          Além dos estudos, participei de atividades extracurriculares,
-          principalmente do basquete. Entrei para um time com alguns amigos,
-          tornei-me líder do time feminino e recebi três medalhas de jogadora
-          destaque. Essa experiência me ajudou a desenvolver responsabilidade,
-          liderança e trabalho em equipe. Porém, no 8º ano, sofri uma lesão no
-          joelho durante um campeonato e precisei parar de jogar. Pouco tempo
-          depois, começou a pandemia de COVID-19, trazendo mudanças significativas
-          para minha rotina e afetando também meu desempenho escolar.
+          Além dos estudos, participei de atividades extracurriculares, principalmente do basquete. 
+          Entrei para um time com alguns amigos, tornei-me líder do time feminino e recebi três medalhas
+          de jogadora destaque. Essa experiência contribuiu para o desenvolvimento da minha responsabilidade,
+          liderança e capacidade de trabalhar em equipe.
         </p>
         <img src="img/rubia_8.jpg" alt="Basquete" class="img_foto_pequeno" onclick="aumentarFoto(this)">
       </div>
 
       <div class="sobre-bloco-perfil">
         <p>
-          A transição para o Ensino Médio foi marcada por mudanças pessoais e
-          acadêmicas. Durante a pandemia, comecei a me interessar por sociologia,
-          filosofia, livros, séries e tecnologia, o que me ajudou a recuperar
-          minha motivação e compreender melhor o mundo ao meu redor. Com o
-          retorno das aulas presenciais, comecei um curso técnico de
-          Desenvolvimento de Sistemas, onde aprendi sobre autonomia, trabalho
-          em equipe e busca por conhecimento. Ao olhar para minha trajetória,
-          percebo que tanto as experiências positivas quanto as dificuldades
-          contribuíram para quem sou hoje, tornando-me mais independente,
-          curiosa e adaptável.
+          Posteriormente, iniciei um curso técnico em Desenvolvimento de Sistemas, no qual tive meu 
+          primeiro contato mais aprofundado com a tecnologia e desenvolvi conhecimentos relacionados à 
+          programação e ao desenvolvimento de sistemas. Essa formação despertou meu interesse em 
+          continuar estudando tecnologia e me levou à graduação em Sistemas de Informação.
         </p>
         <img src="img/rubia_9.jpg" alt="Ensino Médio" class="img_foto_pequeno" onclick="aumentarFoto(this)">
       </div>
 
-      <div class="galeria">
+      <div class="sobre-bloco-perfil">
+        <p>
+          Ao longo dessa nova etapa, passei a participar de projetos acadêmicos que me permitiram aplicar
+          meus conhecimentos na prática, trabalhar em equipe e desenvolver soluções. Um dos momentos mais 
+          marcantes foi minha participação na disciplina de Experiência Criativa: Navegando pelos Sistemas 
+          de Informação, na qual minha equipe recebeu o Certificado de Reconhecimento da PUCPR pelo projeto 
+          considerado o Melhor da Etapa 2. Essa conquista representou não apenas um reconhecimento pelo 
+          resultado do projeto, mas também a importância da colaboração, dedicação e aplicação dos 
+          conhecimentos adquiridos.
+        </p>
         <img src="img/rubia_4.jpg" alt="Foto pessoal" class="img_foto_pequeno" onclick="aumentarFoto(this)">
+      </div>
+            
+      <div class="sobre-bloco-perfil">
+        <p>
+          Ao olhar para minha trajetória, percebo que tanto as experiências positivas quanto as dificuldades 
+          contribuíram para quem sou hoje. Cada etapa me ajudou a desenvolver mais independência, curiosidade, 
+          confiança, responsabilidade e capacidade de adaptação. Minha trajetória acadêmica também reforçou meu
+          interesse pela tecnologia e minha vontade de continuar aprendendo, transformando conhecimentos em 
+          projetos e buscando novos desafios.
+        </p>
+        <img src="img/rubia_3.jpg" alt="Foto pessoal" class="img_foto_pequeno" onclick="aumentarFoto(this)">
+      </div>
+
+      <div class="galeria">
+        
         <img src="img/rubia_6.jpg" alt="Foto pessoal" class="img_foto_pequeno" onclick="aumentarFoto(this)">
         <img src="img/rubia_1.jpeg" alt="Foto pessoal" class="img_foto_pequeno" onclick="aumentarFoto(this)">
         <img src="img/rubia.jpeg" alt="Foto pessoal" class="img_foto_pequeno" onclick="aumentarFoto(this)">
-        <img src="img/rubia_3.jpg" alt="Foto pessoal" class="img_foto_pequeno" onclick="aumentarFoto(this)">
         <img src="img/rubia_5.jpg" alt="Foto pessoal" class="img_foto_pequeno" onclick="aumentarFoto(this)">
         <img src="img/rubia_7.jpg" alt="Foto pessoal" class="img_foto_pequeno" onclick="aumentarFoto(this)">
         <img src="img/rubia_2.jpg" alt="Foto pessoal" class="img_foto_pequeno" onclick="aumentarFoto(this)">
