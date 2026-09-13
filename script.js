@@ -160,6 +160,37 @@ function abrir(secao) {
         </div>
         <a class="botao" href="https://rubiaramos.github.io/PucTopia-Classic/" target="_blank" rel="noopener noreferrer">Abrir</a>
       </div>
+
+      <div class="projeto">
+        <h2>Receitas da Beane</h2>
+        <p>
+          O Receitas da Beane foi criado de forma colaborativa pelo grupo
+          como uma maneira de preservar, valorizar e homenagear uma história 
+          familiar que possui um significado especial para uma das integrantes. 
+          A ideia surgiu a partir do livro de receitas da mãe de uma das 
+          integrantes do grupo, que, com o passar do tempo, acabou ficando bastante 
+          desgastado e em mau estado de conservação. Diante disso, surgiu a proposta 
+          de transformar aquelas receitas em um espaço digital, garantindo que elas 
+          pudessem ser preservadas e compartilhadas de uma maneira mais acessível e 
+          duradoura.
+          <br><br>
+          A proposta do Receitas da Beane reúne algumas das receitas presentes no livro 
+          de receitas familiares, organizadas em um formato digital e de fácil acesso. 
+          Entre elas estão bolo de chocolate, bolo de cenoura, enroladinho de salsicha 
+          assado, brownie caseiro, panqueca, torta de limão, bolo de fubá cremoso e 
+          café cremoso.
+          <br><br>
+          A construção do site também foi realizada de maneira colaborativa pelo grupo, 
+          unindo tecnologia, criatividade e memória afetiva. Dessa forma, o projeto não 
+          se limita à reprodução de receitas, mas representa uma experiência de compartilhamento 
+          e preservação de uma tradição familiar.
+        </p>
+        <div class="imagens-projeto">
+          <img src="img/receita.png" alt="Receitas da Beane" class="detalhe" onclick="aumentarFoto(this)">
+          <img src="img/receita2.png" alt="Receitas da Beane" class="detalhe" onclick="aumentarFoto(this)">
+        </div>
+        <a class="botao" href="https://fabrinewrublevski.github.io/Receitas/index.html" target="_blank" rel="noopener noreferrer">Abrir</a>
+      </div>
     `;
   } else if (secao === "arquivos") {
     texto = `
