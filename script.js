@@ -191,6 +191,36 @@ function abrir(secao) {
         </div>
         <a class="botao" href="https://fabrinewrublevski.github.io/Receitas/index.html" target="_blank" rel="noopener noreferrer">Abrir</a>
       </div>
+
+      <div class="projeto">
+        <h2>Leveza de Ler</h2>
+        <p>
+          O Leveza de ler foi criado de forma independente como um catálogo digital voltado 
+          para amantes da literatura, unindo organização, acessibilidade e paixão pelos livros. 
+          A ideia surgiu da necessidade de reunir grandes clássicos mundiais e produções contemporâneas 
+          em um formato prático, moderno e de fácil navegação. Diante disso, surgiu a proposta de 
+          transformar a divulgação dessas obras em um espaço virtual hospedado no GitHub Pages, 
+          garantindo que as sinopses e os links direcionados para a compra de cada título pudessem 
+          ser acessados de maneira simples e duradoura.
+          <br><br>
+          A proposta do Leveza de ler reúne alguns dos livros mais marcantes da literatura, organizados 
+          por meio de fichas dinâmicas que transitam por múltiplos gêneros literários. Entre eles estão 
+          1984, A Bela e a Fera, Crime e castigo, Drácula, Frankenstein, A Imperatriz, Um estudo em 
+          vermelho (Sherlock Holmes) e O Jardim Secreto.
+          <br><br>
+          A construção do site também foi realizada com foco na experiência do usuário, integrando recursos 
+          interativos que facilitam a busca interna. O sistema conta com uma barra de pesquisa em tempo real 
+          que filtra as obras e oculta as que não coincidem com a busca, além de um botão de limpeza rápida 
+          que restaura instantaneamente todo o catálogo na tela. Dessa forma, o projeto não se limita à exposição 
+          de títulos, mas representa uma solução inteligente e fluida para quem deseja descobrir e adquirir 
+            novas leituras.
+        </p>
+        <div class="imagens-projeto">
+          <img src="img/livro.png" alt="Leveza de Ler" class="detalhe" onclick="aumentarFoto(this)">
+          <img src="img/livro2.png" alt="Leveza de Ler" class="detalhe" onclick="aumentarFoto(this)">
+        </div>
+        <a class="botao" href="https://rubiaramos.github.io/Leveza-de-ler/" target="_blank" rel="noopener noreferrer">Abrir</a>
+      </div>
     `;
   } else if (secao === "arquivos") {
     texto = `
