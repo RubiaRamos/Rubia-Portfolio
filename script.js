@@ -252,6 +252,12 @@ function abrir(secao) {
           (emagrecer, manter ou ganhar massa), exibição de histórico
           e resumo diário de calorias e hidratação.
         </p>
+
+        <div class="imagens-projeto">
+          <img src="img/fit.png" alt="FitFit GRR'sss" class="detalhe" onclick="aumentarFoto(this)">
+          <img src="img/fit2.png" alt="FitFit GRR'sss" class="detalhe" onclick="aumentarFoto(this)">
+        </div>
+
         <a class="botao" href="https://github.com/RubiaRamos/Projeto-PJBL_1" target="_blank" rel="noopener noreferrer">Abrir</a>
       </div>
 
@@ -275,6 +281,12 @@ function abrir(secao) {
           ação para garantir que não ultrapasse os limites da matriz
           ou colida com obstáculos.
         </p>
+                
+        <div class="imagens-projeto">
+          <img src="img/dino.png" alt="Salve o Dino" class="detalhe" onclick="aumentarFoto(this)">
+          <img src="img/dino2.png" alt="Salve o Dino" class="detalhe" onclick="aumentarFoto(this)">
+        </div>
+
         <a class="botao" href="https://github.com/RubiaRamos/Projeto-PJBL_2---Tesouro" target="_blank" rel="noopener noreferrer">Abrir</a>
       </div>
 
@@ -310,6 +322,12 @@ function abrir(secao) {
           Já o status detalhado exibe informações completas sobre
           o personagem, como vida, nível, dano e moedas acumuladas.
         </p>
+                
+        <div class="imagens-projeto">
+          <img src="img/batalha.png" alt="Batalha" class="detalhe" onclick="aumentarFoto(this)">
+          <img src="img/batalha2.png" alt="Batalha" class="detalhe" onclick="aumentarFoto(this)">
+        </div>
+
         <a class="botao" href="https://github.com/RubiaRamos/Batalha" target="_blank" rel="noopener noreferrer">Abrir</a>
       </div>
     `;
